@@ -5,10 +5,11 @@ import { useNavigate } from "react-router-dom";
 const Logout = () => {
   const { logout } = useAuth();
   const navigate = useNavigate();
-
+  if (window.aptrinsic) window.aptrinsic("clear");
   useEffect(() => {
-    logout(); // Clear authentication state
     if (window.aptrinsic) window.aptrinsic("clear");
+    logout(); // Clear authentication state
+
     navigate("/login"); // Redirect to home or login page
   }, [logout, navigate]);
 
