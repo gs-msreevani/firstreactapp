@@ -1,0 +1,109 @@
+{
+  "engagementChecksums": [
+    {
+      "engagementId": "406c4f9e-4a45-4d87-b835-87ee3200011f",
+      "validChecksums": []
+    },
+    {
+      "engagementId": "a26e5365-61d8-4eeb-aae0-fdff5b8caf65",
+      "validChecksums": [
+        "7a8bf3cc22af808f5a485302d17f63bc6e5883de767c3554151cec58d485f861"
+      ]
+    },
+    {
+      "engagementId": "0a5ffc88-7432-40ae-ab0e-1c1805f45d0b",
+      "validChecksums": [
+        "e20154690f9f56c232f89cd7eeca419d863cf27ebab0e9e1c380962db83d1498"
+      ]
+    },
+    {
+      "engagementId": "33ba8bae-3d5c-42af-b2b0-c46f899a668e",
+      "validChecksums": [
+        "c2b4ecb61af1444a8fd49f1f0b9bcef65c5620e433f131dba3b24ba43c787ae7"
+      ]
+    },
+    {
+      "engagementId": "c98dd71d-d7fc-4dfe-9169-267445d40ff2",
+      "validChecksums": []
+    },
+    {
+      "engagementId": "ee3e07a9-0047-4537-b376-660b6985b367",
+      "validChecksums": [
+        "a576b1081532e18775abc363c7d4a71059547600a7f4bea24fd753841e83c325"
+      ]
+    },
+    {
+      "engagementId": "b030baaf-ecac-4e51-b4af-b5c4ac3bb3ff",
+      "validChecksums": []
+    },
+    {
+      "engagementId": "5fb7f73c-0c0d-44d5-a183-2d27c8d689ac",
+      "validChecksums": [
+        "a831a8d5d1f43f9439fc8dcc20b91ce2b5e85559b76ab980abf8dcb2819abfe3"
+      ]
+    },
+    {
+      "engagementId": "7b2c8fbb-f4a9-4b3f-bf1b-2517bc18694b",
+      "validChecksums": [
+        "a15eb11cb9597514854378b63fb6102ce5f0e9c5f822f4e9463bebf479073d8d"
+      ]
+    },
+    {
+      "engagementId": "0fe0301a-8d35-4378-9213-0636f4ab0a37",
+      "validChecksums": [
+        "37ea572d3afb22602eade7ecf941a231bd7a22413311ba3de0ea2be0805dab48"
+      ]
+    },
+    {
+      "engagementId": "9edff702-30a4-4f96-bea9-ee274f18e00e",
+      "validChecksums": [
+        "39ccdaed9f4c45206a99cd98c3b61e395f3edc9c5c1a37148f4d9565f71e9a9b"
+      ]
+    },
+    {
+      "engagementId": "b5bc72dc-c264-408b-a304-624fad5788e8",
+      "validChecksums": [
+        "6aeae5a0d4f996b4c50c7c4b96979cae13bb8bfafb5aa66501d21d8509b4f2b5"
+      ]
+    },
+    {
+      "engagementId": "4e4e0349-86e8-468c-bc2f-3021c392c6f8",
+      "validChecksums": []
+    },
+    {
+      "engagementId": "62339ef2-cd24-4000-ab25-546d727c4c1c",
+      "validChecksums": [
+        "2a65f0544d967d0c4edcbe1f4c313ab9547d3f566516297c2f5952de4087f91a"
+      ]
+    },
+    {
+      "engagementId": "8ae189cd-3418-42d2-9d6f-be42b9daee98",
+      "validChecksums": [
+        "4835c8f5d5c7c3fd2b66849eafa59da380d0e2cfd8b7c84ba08838a845248c66"
+      ]
+    },
+    {
+      "engagementId": "ae604414-9b1c-4bfa-8226-86f9fa4ad4d4",
+      "validChecksums": []
+    },
+    {
+      "engagementId": "852023c1-4c12-44f8-a7b9-183a75dd950e",
+      "validChecksums": [
+        "59260142e011dfd0367a6a4d462a90f899be62ec261d53d8cb24d1493df630da"
+      ]
+    }
+  ],
+  "botChecksums": [
+    {
+      "botId": "7af0adf8-2631-45cf-bf26-8e0a3859e27b",
+      "validConfigChecksums": [
+        "f43040f6e2d023b48bbc6787fe3902183d1fb97946c11887c641964e8dcba8fa"
+      ],
+      "validContentChecksums": [
+        "a59df45a5f50e04a031d71f0573423948dd738cbda6dac980b865e1e5a3e2674"
+      ]
+    }
+  ],
+  "engFieldMappingEnabled": true,
+  "checksumVersion": 4
+}
