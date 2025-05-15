@@ -12,7 +12,7 @@ const About = () => {
     <>
       <h3>This is the About page</h3>
       <button id="feature">Feature</button>
-      <h1>Modal Overlay Example newgi</h1>
+      <h1>Modal Overlay Example new new</h1>
       <button id="modalbtn" onClick={openModal}>
         Open Modal
       </button>
