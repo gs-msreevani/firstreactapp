@@ -20,6 +20,7 @@ export const AuthProvider = ({ children }) => {
 
   const logout = () => {
     setIsLoggedIn(false);
+    if (window.aptrinsic) window.aptrinsic("reset");
     localStorage.removeItem("isLoggedIn");
   };
 
